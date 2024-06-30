@@ -65,6 +65,9 @@ git config--list
 ```
 ## Log
 git log will show recent git commands to the git tree 
+```
+git log --oneline
+```
 
 ## Push 
 To push a repo to our remote origin
