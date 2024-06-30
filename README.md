@@ -1,13 +1,43 @@
 # GitHub-examples
+<ul>
+    <li><a href="#git-and-github">Git and GitHub</a>
+        <ul>
+            <li><a href="#git">Git</a></li>
+            <li><a href="#github">GitHub</a></li>
+        </ul>
+    </li>
+    <li><a href="#common-terms">Common terms</a>
+        <ul>
+            <li><a href="#clone">Clone</a></li>
+            <li><a href="#branch">Branch</a></li>
+            <li><a href="#commit">Commit</a></li>
+            <li><a href="#fork">Fork</a></li>
+            <li><a href="#merge">Merge</a></li>
+        </ul>
+    </li>
+    <li><a href="#installing-git">Installing git</a>
+        <ul>
+            <li><a href="#windows">Windows</a></li>
+            <li><a href="#linux">Linux</a></li>
+        </ul>
+    </li>
+    <li><a href="#installing-git-in-local-repository">Installing Git in local repository</a>
+        <ul>
+            <li><a href="#install-git">Install git</a></li>
+            <li><a href="#open-terminal-or-command-prompt">Open terminal or command prompt</a></li>
+        </ul>
+    </li>
+</ul>
+
 # Git and GitHub
 ## Git 
 >Git is a distributed version control system (DVCS) designed to track changes in source code during software development.
 ## GitHub
 >GitHub, on the other hand, is a web-based platform built around Git that provides hosting for Git repositories.
 ### Common terms :
->clone: Cloning a repository means creating a local copy on your machine from a remote repository hosted on GitHub.
+>Clone: Cloning a repository means creating a local copy on your machine from a remote repository hosted on GitHub.
 
->branch:A branch is a parallel version of the repository that allows developers to work on different features or fixes independently without affecting the main codebase
+>Branch:A branch is a parallel version of the repository that allows developers to work on different features or fixes independently without affecting the main codebase
 
 >Commit: A commit represents a snapshot of changes made to the repository at a specific time. 
 
@@ -23,7 +53,7 @@ https://git-scm.com
 ```
 https://git-scm.com/download/linux
 ```
-## Git in local repository
+## Installing Git in local repository
 ### Install git
 Install git from official website:https://git-scm.com
 ### Open terminal or command propmt
