@@ -48,7 +48,8 @@ Reset allows you to move staged changes to be unchanged.This is useful when you 
 git add.
 git reset
  ```
- ## SSH
+ ## SSHgit push
+ 
 
  ## GitHub CLI
 
@@ -64,10 +65,7 @@ The Gitconfig files stores your global configuration for git such as email,name,
 git config--list
 ```
 ## Log
-git log will show recent git commands to the git tree 
-```
-git log --oneline
-```
+git log will show recent git commands to the git
 
 ## Push 
 To push a repo to our remote origin
