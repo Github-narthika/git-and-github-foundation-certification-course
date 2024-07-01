@@ -6,15 +6,7 @@
             <li><a href="#github">GitHub</a></li>
         </ul>
     </li>
-    <li><a href="#common-terms">Common terms</a>
-        <ul>
-            <li><a href="#clone">Clone</a></li>
-            <li><a href="#branch">Branch</a></li>
-            <li><a href="#commit">Commit</a></li>
-            <li><a href="#fork">Fork</a></li>
-            <li><a href="#merge">Merge</a></li>
-        </ul>
-    </li>
+    <li><a href="#common-terms">Common terms</a></li>
     <li><a href="#installing-git">Installing git</a>
         <ul>
             <li><a href="#windows">Windows</a></li>
