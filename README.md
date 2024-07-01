@@ -19,36 +19,39 @@
             <li><a href="#open-terminal-or-command-prompt">Open terminal or command prompt</a></li>
         </ul>
     </li>
-    <li><a href="#Update changes">Update changes</a>
-          <ul>
-                <li><a href="git add">git add</a></li>
-                <li><a href="To add all changes">To add all changes</a></li>
-                <li><a href="To add specific file">To add specific file</a></li>
-                <li><a href="git commit">git commit</a></li>
-                <li><a href=" git log">git log</a></li>
-         </ul>    
-    </li>
-    <li><a href=" Branches"> Branches</a>
+    <li><a href="#update-changes">Update changes</a>
         <ul>
-            <li><a href="To provide all branch">To provide all branch</a></li>
-            <li><a href="Create new branch">Create new branch</a></li>
-            <li><a href="Delete a branch">Delete a branch</a></li>
+            <li><a href="#git-add">git add</a></li>
+            <li><a href="#to-add-all-changes">To add all changes</a></li>
+            <li><a href="#to-add-specific-file">To add specific file</a></li>
+            <li><a href="#git-commit">git commit</a></li>
+            <li><a href="#git-log">git log</a></li>
         </ul>
     </li>
-    <li><a href="Merge">Merge</a></li>
+    <li><a href="#branches">Branches</a>
         <ul>
-            <li><a href="Switch to the Target Branch">Switch to the Target Branch</a></li>
+            <li><a href="#to-provide-all-branch">To provide all branch</a></li>
+            <li><a href="#create-new-branch">Create new branch</a></li>
+            <li><a href="#delete-a-branch">Delete a branch</a></li>
         </ul>
-    <li><a href="Pullrequest">Pullrequest</a></li>
-    <li><a href="Clone">Clone</a></li>
+    </li>
+    <li><a href="#merge">Merge</a>
         <ul>
-        <li><a href="HTTPS">HTTPS</a></li>
-        <li><a href="SSH">SSH</a></li>
-        <li><a href="GitHubCLI">GitHubCLI</a></li>
-            <ul>
-               <li><a href="core commands">core commands</a></li>
-            </ul>
+            <li><a href="#switch-to-the-target-branch">Switch to the Target Branch</a></li>
         </ul>
+    </li>
+    <li><a href="#pullrequest">Pull request</a></li>
+    <li><a href="#clone">Clone</a>
+        <ul>
+            <li><a href="#https">HTTPS</a></li>
+            <li><a href="#ssh">SSH</a></li>
+            <li><a href="#github-cli">GitHub CLI</a>
+                <ul>
+                    <li><a href="#core-commands">Core commands</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
 </ul>
 
 # Git and GitHub
