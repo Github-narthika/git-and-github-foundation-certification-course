@@ -64,7 +64,7 @@
 >Git is a distributed version control system (DVCS) designed to track changes in source code during software development.
 ## GitHub
 >GitHub, on the other hand, is a web-based platform built around Git that provides hosting for Git repositories.
-### Common terms :
+## Common terms :
 >Clone: Cloning a repository means creating a local copy on your machine from a remote repository hosted on GitHub.
 
 >Branch:A branch is a parallel version of the repository that allows developers to work on different features or fixes independently without affecting the main codebase
